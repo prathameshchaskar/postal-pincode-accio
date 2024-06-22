@@ -1,0 +1,40 @@
+.app-container {
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .pincode-form {
+    margin-bottom: 20px;
+  }
+  
+  .pincode-form input {
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+    margin-right: 10px;
+  }
+  
+  .pincode-form button {
+    padding: 10px 15px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  
+  .error {
+    color: red;
+    margin: 20px 0;
+  }
+  
+  .post-office-list input {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    
+  }
+  
+  .post-office{
+    margin: 10px;
+    border: 1px solid #000;
+  }
